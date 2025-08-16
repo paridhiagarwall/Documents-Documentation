@@ -1,6 +1,6 @@
 # AI Voice and Chat Dashboard Document
 
-This comprehensive handbook contains all essential information for Admin users of the platform, including dashboard operations, QA responsibilities, project workflows, and company policies. This document is designed for independent learning without requiring external explanation.
+This comprehensive handbook contains all essential information for Admin users of the platform, including dashboard operations, responsibilities, project workflows.  This document is designed for independent learning without requiring external explanation.
 
 ***
 
@@ -485,5 +485,5 @@ For every identified bug or improvement opportunity, create detailed tickets inc
 
 **End of Complete Handbook**
 
-This comprehensive document serves as your complete reference guide for all platform operations, QA responsibilities, and company policies. Keep this document accessible for ongoing reference and share it with new team members for consistent onboarding and training.
+This comprehensive document serves as your complete reference guide for all platform operations, responsibilities. Keep this document accessible for ongoing reference and share it with new team members for consistent onboarding and training.
 
