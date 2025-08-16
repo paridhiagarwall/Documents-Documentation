@@ -95,7 +95,7 @@ The Phone Number Management module provides comprehensive control over telephony
 ### Adding New Phone Numbers
 
 **Required Information:**
-- **Phone Number**: Complete international format (e.g., +01246745647)
+- **Phone Number**: Complete international format (e.g., +01246745747)
 - **Label**: Descriptive identifier for easy recognition
 - **Provider**: Service provider selection (SAN, Twilio, etc.)
 - **Status**: Active/Inactive toggle
