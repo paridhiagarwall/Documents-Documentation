@@ -1,10 +1,10 @@
 # AI Voice and Chat Dashboard Document
 
-This comprehensive handbook contains all essential information for Admin users of the LiaPlus platform, including dashboard operations, QA responsibilities, project workflows, and company policies. This document is designed for independent learning without requiring external explanation.
+This comprehensive handbook contains all essential information for Admin users of the platform, including dashboard operations, QA responsibilities, project workflows, and company policies. This document is designed for independent learning without requiring external explanation.
 
 ***
 
-## 1. LiaPlus Dashboard Access \& User Management
+## 1. Dashboard Access \& User Management
 
 ### Dashboard Environments (Login URLs)
 
@@ -103,7 +103,7 @@ This tab displays data only for existing assistants that have handled actual cal
 
 - **MetalBook:** E-commerce platform assistant.
 - **Meity Startup Hub:** Digital India Corporation initiative.
-For any modifications to these live clients, contact Shailesh for authorization and implementation.
+For any modifications to these live clients, contact one of the Founder members for authorization and implementation.
 
 
 ### Speech Processing Configuration
@@ -243,11 +243,6 @@ Comprehensive call evaluation including:
 - **User Satisfaction Measurement:** Caller happiness assessment.
 - **SOP Compliance Rating:** Adherence to standard operating procedures.
 
-
-#### Cost Tab
-
-Note: This tab should be removed from the frontend as the business model is based on calling minutes, not individual call costs.
-
 ***
 
 ## 6. Subscription Plans \& Billing
@@ -316,7 +311,7 @@ Permanent account removal requiring email confirmation—this action is irrevers
 
 ## 8. Job Responsibilities \& Workflows
 
-### Key QA Responsibilities
+### Key Responsibilities
 
 #### End-to-End Quality Assurance Ownership
 
@@ -349,7 +344,7 @@ As the designated QA professional, you maintain complete responsibility for qual
 
 ### Current Priority Project
 
-**FNB – First Rand Bank:** This is the highest priority project requiring immediate and continuous QA attention. All testing efforts should prioritize FNB operational stability and feature correctness above other projects.
+**FNB –** This is the highest priority project requiring immediate and continuous QA attention. All testing efforts should prioritize FNB operational stability and feature correctness above other projects.
 
 ### Delivered Projects with Ongoing Maintenance
 
@@ -417,7 +412,7 @@ For every test scenario, client requirement, or workflow requiring QA validation
 
 #### Technical Issue Resolution
 
-- **Primary Contacts:** Immediately notify **Anchit and Himani** when dashboard download issues occur (broken links, missing files, incomplete downloads)
+- **Primary Contacts:** Immediately notify **AI Engineers** when dashboard download issues occur (broken links, missing files, incomplete downloads)
 - **Backup Recording Method:** Use mobile device built-in call recording as temporary solution while technical issues are resolved
 - **Security Measures:** Store backup recordings securely and confidentially
 - **Documentation:** Log backup method usage in QA tracking tools with appropriate transparency notes
@@ -425,9 +420,9 @@ For every test scenario, client requirement, or workflow requiring QA validation
 
 ### Post-Recording Workflow
 
-- **Initial Sharing:** Distribute recordings to **Smridhi and Shailesh** for evaluation and feedback
+- **Initial Sharing:** Distribute recordings to **Founders** for evaluation and feedback
 - **Approval Process:** Await formal approval before proceeding to next workflow stage
-- **Demo Preparation:** Forward approved recordings to **Shailesh** for demo design and presentation preparation
+- **Demo Preparation:** Forward approved recordings to **Founders** for demo design and presentation preparation
 - **Reference Resource:** Access demo materials and additional resources at https://linktr.ee/liaplusai
 - **Mandatory Documentation:** Ensure every QA test session includes proper recording proof for traceability and historical reference
 
@@ -470,7 +465,7 @@ For every identified bug or improvement opportunity, create detailed tickets inc
 
 #### Priority and Severity Management
 
-- **Regular Review Sessions:** Scheduled meetings with **Engineering Manager** and **Shailesh** to discuss:
+- **Regular Review Sessions:** Scheduled meetings with **Engineering Manager** and **Reporting Manager** to discuss:
     - Business blocker identification and prioritization
     - Critical regression assessment
     - High-severity defect evaluation
@@ -488,72 +483,7 @@ For every identified bug or improvement opportunity, create detailed tickets inc
 
 ***
 
-## 12. Device and SIM Usage Policy
-
-### Assigned Equipment Specifications
-
-- **Device Model:** Samsung smartphone designated for official business use
-- **SIM Provider:** Jio network services for communication requirements
-
-
-### Recharge and Usage Guidelines
-
-- **International Numbers:** Request top-ups only—do not use unlimited plans to control costs and prevent unnecessary expenses
-- **Indian Numbers:** Unlimited plans are approved and function as expected for domestic communication needs
-
-
-### Strict Usage Policy
-
-- **Official Use Only:** Samsung device is exclusively for business-related activities and communications
-- **Prohibited Personal Use:** Absolutely no personal data, personal login credentials, or non-work applications permitted on the device
-- **Restricted Content:** No personal emails, social media accounts, personal cloud backups, or unrelated personal information
-- **Call Recording Configuration:** Limited to office-related calls and business communications only
-- **Contact Management:** Device contains only curated list of important office phone numbers and business contacts
-- **Personal Contact Restriction:** No personal contacts or non-business numbers stored on the device
-
-
-### Security and Compliance
-
-Adherence to these policies ensures data security, privacy protection, and full compliance with company information security standards. Questions regarding device use or recharge procedures should be directed to your immediate supervisor.
-
-***
-
-## 13. Asset Handover
-
-### Company Equipment Responsibility
-
-Full accountability for all company-issued equipment and accessories:
-
-- **Primary Items:** Laptop, laptop charger, official smartphone, and any additional peripherals
-- **Accessories:** Mouse, keyboard, headsets, or other work-related equipment
-- **Documentation:** Complete inventory of all issued items with specifications
-
-
-### Asset Documentation Requirements
-
-- **Model Numbers:** Accurate recording of all equipment model numbers for inventory verification
-- **Condition Assessment:** Detailed notation of equipment condition at both issuance and return ("new," "minor wear," "fully functional," "damaged")
-- **Accessory Tracking:** Complete documentation of all included accessories, cables, and supplementary items
-
-
-### Return Process and Accountability
-
-- **Return Timeline:** All assets must be returned upon employment termination or when specifically requested
-- **Condition Requirements:** Equipment returned in good working condition with normal wear accepted
-- **Damage Reporting:** Immediate notification of any missing accessories, damage, or discrepancies during return process
-- **Personal Use Restrictions:** Company assets designated for business use only unless explicitly authorized by company policy
-
-
-### Formal Handover Procedures
-
-- **Documentation Checklist:** Comprehensive list completed and signed by both employee and authorized company representative
-- **Checklist Contents:** Item descriptions, model numbers, current condition, included accessories, issuance/return dates, signature confirmations
-- **Dual Verification:** Both initial asset issuance and final return require formal documentation and signature verification
-- **Accountability Period:** Employee maintains full responsibility for asset safekeeping and proper use throughout employment duration
-
-***
-
 **End of Complete Handbook**
 
-This comprehensive document serves as your complete reference guide for all LiaPlus platform operations, QA responsibilities, and company policies. Keep this document accessible for ongoing reference and share it with new team members for consistent onboarding and training.
+This comprehensive document serves as your complete reference guide for all platform operations, QA responsibilities, and company policies. Keep this document accessible for ongoing reference and share it with new team members for consistent onboarding and training.
 
