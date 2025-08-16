@@ -506,8 +506,8 @@ Error: Transfer to customer service
 
 ### Technical Support Team
 **Primary Contacts:**
-- **Amit**: Frontend Development Specialist
-- **Kartika**: Frontend Development Specialist
+- **Paridhi**: Frontend Development Specialist
+- **Paridhi**: Frontend Development Specialist
 
 **Support Scope:**
 - Platform navigation and usage questions
@@ -521,9 +521,8 @@ Error: Transfer to customer service
 - **Documentation Updates**: Reflect changes as of July 30, 2025
 
 ### Escalation Process
-1. First contact: Amit or Kartika for frontend-related issues
-2. Technical escalation: Through designated contacts for backend/infrastructure
-3. Business escalation: Project management for scope and priority decisions
+1. Technical escalation: Through designated contacts for backend/infrastructure
+2. Business escalation: Project management for scope and priority decisions
 
 ---
 
