@@ -3,7 +3,6 @@
 **Client:** Online Learning Platform Provider  
 **Project:** Comprehensive Web & Mobile Learning Management System  
 **Prepared by:** Paridhi Agarwal
-**Date:** August 2025
 
 ---
 
